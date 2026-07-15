@@ -105,18 +105,13 @@ console.log(developer);
 
 <div align="center">
 
-### 📈 Performance Overview
+![Stars](https://img.shields.io/github/stars/marcuslaf/Marcuslaf?style=for-the-badge&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/marcuslaf/Marcuslaf?style=for-the-badge&logo=github&label=Forks)
+![Followers](https://img.shields.io/github/followers/marcuslaf?style=for-the-badge&logo=github&label=Followers)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcuslaf&theme=radical" width="400"/>
-
-### 📊 Contribution Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcuslaf&theme=radical" width="900"/>
-
-### 💻 Language Distribution
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcuslaf&theme=radical" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcuslaf&theme=radical" width="400"/>
+![Issues](https://img.shields.io/github/issues/marcuslaf/Marcuslaf?style=for-the-badge&logo=github&label=Issues)
+![Last Commit](https://img.shields.io/github/last-commit/marcuslaf/Marcuslaf?style=for-the-badge&logo=github&label=Last%20Commit)
+![License](https://img.shields.io/github/license/marcuslaf/Marcuslaf?style=for-the-badge&logo=github&label=License)
 
 </div>
 
