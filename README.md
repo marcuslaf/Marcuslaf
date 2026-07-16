@@ -146,9 +146,13 @@ const marcus = {
 
 <img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true" width="467"/>
 
-<img src="./assets/top-langs.svg" width="300"/>
+<br/>
+
+<img src="./assets/top-langs.svg" width="400"/>
 
 </div>
+
+<br/>
 
 ---
 
