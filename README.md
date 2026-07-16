@@ -142,11 +142,19 @@ const marcus = {
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=marcuslaf&v=3" width="495"/>
+<table>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true" width="467"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcuslaf&layout=compact&theme=radical&hide_border=true" width="300"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcuslaf&theme=radical&hide_border=true" width="767"/></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcuslaf&theme=radical&hide_border=true" width="495"/>
+### 🐍 Contribution Snake
 
-<img src="https://gh-stats.com/api?username=marcuslaf" width="380"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
