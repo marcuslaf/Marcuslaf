@@ -140,6 +140,8 @@ const marcus = {
 
 ## 📊 GitHub Analytics
 
+> Todos os dados abaixo são extraídos diretamente da API do GitHub — sem dados fictícios.
+
 <div align="center">
 
 <table>
@@ -147,14 +149,23 @@ const marcus = {
     <td><img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true" width="467"/></td>
     <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcuslaf&layout=compact&theme=radical&hide_border=true" width="300"/></td>
   </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcuslaf&theme=radical&hide_border=true" width="767"/></td>
-  </tr>
 </table>
 
-### 🐍 Contribution Snake
+<details>
+<summary>📈 <strong>Contribution Activity (últimos 52 semanas)</strong></summary>
+<br/>
+
+![Contribution Graph](https://github-contributions-api.jogruber.de/v4/marcuslaf.svg?theme=radical&hide-border=true)
+
+</details>
+
+<details>
+<summary>🐍 <strong>Contribution Snake</strong></summary>
+<br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</details>
 
 </div>
 
