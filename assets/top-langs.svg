@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="230" viewBox="0 0 300 230">
+<rect width="300" height="230" rx="4.5" fill="#141321"/>
+<text x="25" y="28" font="600 16px Segoe UI, Ubuntu, Sans-Serif" fill="#58a6ff">Most Used Languages</text>
+<text x="25" y="225" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e">Based on 49 public repositories</text>
+<circle cx="30" cy="43" r="5" fill="#3572A5"/>
+<text x="42" y="47" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">Python</text>
+<text x="270" y="47" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">14 repos</text>
+<text x="290" y="47" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">28.6%</text>
+<circle cx="30" cy="68" r="5" fill="#f1e05a"/>
+<text x="42" y="72" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">JavaScript</text>
+<text x="270" y="72" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">9 repos</text>
+<text x="290" y="72" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">18.4%</text>
+<circle cx="30" cy="93" r="5" fill="#563d7c"/>
+<text x="42" y="97" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">CSS</text>
+<text x="270" y="97" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">8 repos</text>
+<text x="290" y="97" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">16.3%</text>
+<circle cx="30" cy="118" r="5" fill="#b07219"/>
+<text x="42" y="122" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">Java</text>
+<text x="270" y="122" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">7 repos</text>
+<text x="290" y="122" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">14.3%</text>
+<circle cx="30" cy="143" r="5" fill="#e34c26"/>
+<text x="42" y="147" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">HTML</text>
+<text x="270" y="147" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">5 repos</text>
+<text x="290" y="147" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">10.2%</text>
+<circle cx="30" cy="168" r="5" fill="#178600"/>
+<text x="42" y="172" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">C#</text>
+<text x="270" y="172" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">5 repos</text>
+<text x="290" y="172" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">10.2%</text>
+<circle cx="30" cy="193" r="5" fill="#89e051"/>
+<text x="42" y="197" font="400 11px Segoe UI, Ubuntu, Sans-Serif" fill="#c9d1d9">Shell</text>
+<text x="270" y="197" font="600 11px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">1 repos</text>
+<text x="290" y="197" font="400 10px Segoe UI, Ubuntu, Sans-Serif" fill="#8b949e" text-anchor="end">2.0%</text>
+</svg>

@@ -147,7 +147,7 @@ const marcus = {
 <table>
   <tr>
     <td><img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true" width="467"/></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcuslaf&layout=compact&theme=radical&hide_border=true" width="300"/></td>
+    <td><img src="./assets/top-langs.svg" width="300"/></td>
   </tr>
 </table>
 
