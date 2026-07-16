@@ -151,21 +151,25 @@ const marcus = {
   </tr>
 </table>
 
-<details>
-<summary>📈 <strong>Contribution Activity (últimos 52 semanas)</strong></summary>
-<br/>
+</div>
 
-![Contribution Graph](https://github-contributions-api.jogruber.de/v4/marcuslaf.svg?theme=radical&hide-border=true)
+---
 
-</details>
+### 📈 Contribution Activity
 
-<details>
-<summary>🐍 <strong>Contribution Snake</strong></summary>
-<br/>
+<div align="center">
+
+![Contribution Graph](https://github-contributions-api.jogruber.de/v4/marcuslaf.svg?theme=radical)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</details>
 
 </div>
 
@@ -224,7 +228,13 @@ const marcus = {
 
 <div align="center">
 
-![Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%22First,+solve+the+problem.+Then,+write+the+code.%22;—+John+Johnson&duration=1)
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
+
+</div>
+
+---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting! | Obrigado pela visita!
 
