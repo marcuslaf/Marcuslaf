@@ -144,12 +144,9 @@ const marcus = {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true" width="467"/></td>
-    <td><img src="./assets/top-langs.svg" width="300"/></td>
-  </tr>
-</table>
+<img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true" width="467"/>
+
+<img src="./assets/top-langs.svg" width="300"/>
 
 </div>
 
@@ -159,7 +156,7 @@ const marcus = {
 
 <div align="center">
 
-![Contribution Grid](./assets/contribution-grid.svg)
+<img src="./assets/contribution-grid.svg" width="100%"/>
 
 </div>
 
