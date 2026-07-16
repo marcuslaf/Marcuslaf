@@ -159,7 +159,7 @@ const marcus = {
 
 <div align="center">
 
-![Contribution Graph](https://github-contributions-api.jogruber.de/v4/marcuslaf.svg?theme=radical)
+![Contribution Graph](https://ghchart.rshah.org/marcuslaf)
 
 </div>
 
