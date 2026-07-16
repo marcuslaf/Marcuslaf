@@ -159,7 +159,7 @@ const marcus = {
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/58a6ff/marcuslaf)
+![Contribution Grid](./assets/contribution-grid.svg)
 
 </div>
 
