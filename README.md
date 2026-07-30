@@ -159,28 +159,17 @@
 
 ## 📊 GitHub
 
-<table align="center">
-  <tr>
-    <td align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-      <table>
-        <tr>
-          <td align="center" valign="middle" style="padding-right: 12px;">
-            <img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
-          </td>
-          <td align="center" valign="middle" style="padding-left: 12px;">
-            <img src="./assets/top-langs.svg" width="360" alt="Top Languages"/>
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <details>
-        <summary style="color: #8b949e; font-size: 13px; cursor: pointer;"><b>📈 Atividade nos últimos 12 meses</b></summary>
-        <br/>
-        <img src="./assets/contribution-grid.svg" width="100%" alt="Contribution Grid"/>
-      </details>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="./assets/top-langs.svg" width="360" alt="Top Languages"/>
+  <br/><br/>
+  <details>
+    <summary style="color: #8b949e; font-size: 13px; cursor: pointer;"><b>📈 Atividade nos últimos 12 meses</b></summary>
+    <br/>
+    <img src="./assets/contribution-grid.svg" width="100%" alt="Contribution Grid"/>
+  </details>
+</div>
 
 <br/>
 
