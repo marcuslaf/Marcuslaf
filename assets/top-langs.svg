@@ -11,7 +11,7 @@
 </defs>
 <rect width="636" height="444" rx="10" fill="url(#bgGradTL)" stroke="#21262d" stroke-width="1"/>
 <text x="28" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">📊 Linguagens mais usadas</text>
-<text x="218" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">⭐ 5 stars · 53 repositórios</text>
+<text x="288" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">⭐ 5 stars · 53 repositórios</text>
 <path d="M 118.0 206.0 L 118.0 172.0 A 72 72 0 0 1 186.20749747750176 267.05942947812434 L 153.99840144645927 256.17025444678785 A 38 38 0 0 0 118.0 206.0 Z" fill="#3572A5" opacity="0.9"/>
 <path d="M 153.99840144645927 256.17025444678785 L 186.20749747750176 267.05942947812434 A 72 72 0 0 1 130.73609980882526 314.864601612227 L 124.72183045465778 281.4007619620087 A 38 38 0 0 0 153.99840144645927 256.17025444678785 Z" fill="#563d7c" opacity="0.9"/>
 <path d="M 124.72183045465778 281.4007619620087 L 130.73609980882526 314.864601612227 A 72 72 0 0 1 67.84832590746421 295.66052250719184 L 91.53106089560612 271.26527576768456 A 38 38 0 0 0 124.72183045465778 281.4007619620087 Z" fill="#f1e05a" opacity="0.9"/>

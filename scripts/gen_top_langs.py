@@ -76,7 +76,7 @@ S(f'<rect width="{width}" height="{height}" rx="10" fill="url(#bgGradTL)" stroke
 
 # ── HEADER ──
 S(f'<text x="{padding}" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">📊 Linguagens mais usadas</text>')
-S(f'<text x="{padding + 190}" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">⭐ {total_stars} stars · {total_repos} repositórios</text>')
+S(f'<text x="{padding + 260}" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">⭐ {total_stars} stars · {total_repos} repositórios</text>')
 
 # ── DONUT CHART ──
 # Center and radius
