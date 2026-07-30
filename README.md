@@ -91,7 +91,7 @@
 <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 520px; text-align: left;">
 
 ### 🔗 Encurtador de URLs
-> URL shortener com métricas, cache Redis, QR codes e autenticação via API key.
+URL shortener com métricas, cache Redis, QR codes e autenticação via API key.
 
 [![Stars](https://img.shields.io/github/stars/marcuslaf/encurtador-de-urls?style=flat-square&logo=github&label=Stars&color=gold)](https://github.com/marcuslaf/encurtador-de-urls/stargazers)
 
@@ -110,7 +110,7 @@
 <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 520px; text-align: left;">
 
 ### 🌤️ Weather Dashboard
-> Dashboard interativo com gráficos Recharts, tema dark/light e previsão por geolocalização.
+Dashboard interativo com gráficos Recharts, tema dark/light e previsão por geolocalização.
 
 [![Stars](https://img.shields.io/github/stars/marcuslaf/weather-dashboard?style=flat-square&logo=github&label=Stars&color=gold)](https://github.com/marcuslaf/weather-dashboard/stargazers)
 
@@ -128,7 +128,7 @@
 <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 520px; text-align: left;">
 
 ### 🔧 Minimal API
-> API RESTful em ASP.NET Core com JWT, FluentValidation e testes automatizados.
+API RESTful em ASP.NET Core com JWT, FluentValidation e testes automatizados.
 
 [![Stars](https://img.shields.io/github/stars/marcuslaf/minimal-api?style=flat-square&logo=github&label=Stars&color=gold)](https://github.com/marcuslaf/minimal-api/stargazers)
 
