@@ -121,7 +121,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
 
 ### 🔧 Minimal API
 > API RESTful em ASP.NET Core com JWT, FluentValidation e testes automatizados.
@@ -133,21 +133,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Destaques:** CRUD · JWT Bearer · Validação · Testes de integração
-
-    </td>
-    <td valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
-
-### 💬 ForumHub API
-> API de fórum com Spring Security, JWT, Flyway migrations e roles ADMIN/USER.
-
-[![Stars](https://img.shields.io/github/stars/marcuslaf/challenge_java_forumhub_alura?style=flat-square&logo=github&label=Stars&color=gold)](https://github.com/marcuslaf/challenge_java_forumhub_alura/stargazers)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Destaques:** Autenticação · Roles · Migrations · Docker
 
     </td>
   </tr>
