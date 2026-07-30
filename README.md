@@ -188,7 +188,7 @@
 
 ## 🎯 Foco Atual
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; text-align: center;">
       <div style="font-size: 24px;">📖</div>
