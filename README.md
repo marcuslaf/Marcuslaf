@@ -207,7 +207,7 @@
       <div style="color: #8b949e; font-size: 13px; line-height: 1.8; text-align: center;">
         APIs RESTful com Java/Spring<br/>
         Dashboards React + TypeScript<br/>
-        <span style="color: #58a6ff;">→ Projeto full stack completo</span>
+        Projeto full stack completo
       </div>
     </td>
     <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; text-align: center;">
