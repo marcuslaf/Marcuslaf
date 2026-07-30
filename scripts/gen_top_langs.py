@@ -158,9 +158,9 @@ for i, (lang_name, data) in enumerate(sorted_langs):
     bar_w_actual = max(bar_w, 4)  # minimum visible width
     S(f'<rect x="{bar_area_left}" y="{y_pos + label_height - 4}" width="{bar_w_actual}" height="{bar_height}" rx="5" fill="{color}" opacity="0.85"/>')
 
-    # Star count
+    # Star count (right-aligned, after percentage text)
     if data["stars"] > 0:
-        S(f'<text x="{bar_area_left + bar_w_actual + 6}" y="{y_pos + label_height + 3}" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#586069">⭐{data["stars"]}</text>')
+        S(f'<text x="{bar_area_left + bar_area_width + 8}" y="{y_pos + 16}" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#586069">⭐{data["stars"]}</text>')
 
     y_pos += label_height + bar_height + gap
 
