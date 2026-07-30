@@ -86,9 +86,9 @@
 
 ## 📌 Projetos
 
-<table>
-<tr>
-<td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
+<div align="center">
+
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 520px; text-align: left;">
 
 ### 🔗 Encurtador de URLs
 > URL shortener com métricas, cache Redis, QR codes e autenticação via API key.
@@ -103,8 +103,11 @@
 
 **Destaques:** Cache distribuído · QR Code · Rate limiting · Dashboard
 
-</td>
-<td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
+</div>
+
+<br/>
+
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 520px; text-align: left;">
 
 ### 🌤️ Weather Dashboard
 > Dashboard interativo com gráficos Recharts, tema dark/light e previsão por geolocalização.
@@ -118,10 +121,11 @@
 
 **Destaques:** Previsão 7 dias · Gráficos interativos · Geocoding · Testes
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
+</div>
+
+<br/>
+
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 520px; text-align: left;">
 
 ### 🔧 Minimal API
 > API RESTful em ASP.NET Core com JWT, FluentValidation e testes automatizados.
@@ -134,9 +138,9 @@
 
 **Destaques:** CRUD · JWT Bearer · Validação · Testes de integração
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br/>
 
