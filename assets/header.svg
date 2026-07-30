@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0.12"/>
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.12"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0"/>
+      <stop offset="40%" style="stop-color:#58a6ff;stop-opacity:0.05"/>
+      <stop offset="60%" style="stop-color:#58a6ff;stop-opacity:0.05"/>
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="240" fill="url(#bgGrad)" rx="12"/>
+
+  <!-- Glow line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accentGrad)" rx="1.5"/>
+
+  <!-- Decorative waves -->
+  <path d="M0,180 Q112.5,160 225,175 T450,170 T675,175 T900,165 L900,240 L0,240 Z" fill="url(#wave1)"/>
+  <path d="M0,200 Q150,185 300,195 T600,190 T900,195 L900,240 L0,240 Z" fill="url(#wave2)"/>
+
+  <!-- Decorative grid dots (subtle) -->
+  <g fill="#58a6ff" opacity="0.04">
+    <circle cx="50" cy="50" r="1.5"/>
+    <circle cx="150" cy="80" r="1"/>
+    <circle cx="250" cy="40" r="1.5"/>
+    <circle cx="350" cy="70" r="1"/>
+    <circle cx="450" cy="45" r="1.5"/>
+    <circle cx="550" cy="75" r="1"/>
+    <circle cx="650" cy="42" r="1.5"/>
+    <circle cx="750" cy="78" r="1"/>
+    <circle cx="850" cy="50" r="1.5"/>
+    <circle cx="100" cy="120" r="1"/>
+    <circle cx="300" cy="110" r="1"/>
+    <circle cx="500" cy="115" r="1"/>
+    <circle cx="700" cy="108" r="1"/>
+    <circle cx="800" cy="120" r="1"/>
+    <circle cx="200" cy="140" r="1"/>
+    <circle cx="400" cy="135" r="1"/>
+    <circle cx="600" cy="145" r="1"/>
+  </g>
+
+  <!-- Decorative code brackets -->
+  <g fill="#58a6ff" opacity="0.06">
+    <text x="30" y="55" font-family="'Courier New', monospace" font-size="40" font-weight="bold">&lt;/&gt;</text>
+    <text x="810" y="200" font-family="'Courier New', monospace" font-size="40" font-weight="bold">{ }</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="450" y="105" font-family="'Segoe UI', -apple-system, sans-serif" font-size="52" font-weight="700" fill="#e6edf3" text-anchor="middle" letter-spacing="1">
+    Marcus Lafaiete
+  </text>
+
+  <!-- Accent underline -->
+  <rect x="310" y="120" width="280" height="3" rx="1.5" fill="url(#accentGrad)"/>
+
+  <!-- Subtitle badge -->
+  <rect x="340" y="138" width="220" height="32" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="159" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" letter-spacing="2" font-weight="500">
+    FULL STACK DEVELOPER
+  </text>
+
+  <!-- Tagline -->
+  <text x="450" y="198" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" letter-spacing="0.5">
+    Code. Build. Improve. Repeat.
+  </text>
+
+  <!-- Small decorative terminal dots -->
+  <g opacity="0.3">
+    <circle cx="420" cy="215" r="2" fill="#58a6ff"/>
+    <circle cx="445" cy="215" r="2" fill="#3b82f6" opacity="0.6"/>
+    <circle cx="470" cy="215" r="2" fill="#58a6ff"/>
+  </g>
+</svg>

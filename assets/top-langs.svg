@@ -1,37 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="406" viewBox="0 0 400 406">
-<rect width="400" height="406" rx="6" fill="#0d1117"/>
-<text x="25" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#58a6ff">Most Used Languages</text>
-<text x="25" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">Python</text>
-<text x="375" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">16 repos (31%)</text>
-<rect x="25" y="72" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="72" width="350.0" height="8" rx="4" fill="#3572A5"/>
-<text x="25" y="106" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">CSS</text>
-<text x="375" y="106" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">9 repos (17%)</text>
-<rect x="25" y="114" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="114" width="196.875" height="8" rx="4" fill="#563d7c"/>
-<text x="25" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">JavaScript</text>
-<text x="375" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">8 repos (15%)</text>
-<rect x="25" y="156" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="156" width="175.0" height="8" rx="4" fill="#f1e05a"/>
-<text x="25" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">Java</text>
-<text x="375" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">7 repos (13%)</text>
-<rect x="25" y="198" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="198" width="153.125" height="8" rx="4" fill="#b07219"/>
-<text x="25" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">HTML</text>
-<text x="375" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">5 repos (10%)</text>
-<rect x="25" y="240" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="240" width="109.375" height="8" rx="4" fill="#e34c26"/>
-<text x="25" y="274" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">C#</text>
-<text x="375" y="274" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">5 repos (10%)</text>
-<rect x="25" y="282" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="282" width="109.375" height="8" rx="4" fill="#178600"/>
-<text x="25" y="316" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">Shell</text>
-<text x="375" y="316" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">1 repos (2%)</text>
-<rect x="25" y="324" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="324" width="21.875" height="8" rx="4" fill="#89e051"/>
-<text x="25" y="358" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e6edf3">TypeScript</text>
-<text x="375" y="358" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">1 repos (2%)</text>
-<rect x="25" y="366" width="350" height="8" rx="4" fill="#161b22"/>
-<rect x="25" y="366" width="21.875" height="8" rx="4" fill="#3178C6"/>
-<text x="25" y="398" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#8b949e">Based on 52 public repositories</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="444" viewBox="0 0 636 444">
+<defs>
+<linearGradient id="bgGradTL" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0d1117"/>
+<stop offset="100%" stop-color="#161b22"/>
+</linearGradient>
+<linearGradient id="barGlow" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#58a6ff" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect width="636" height="444" rx="10" fill="url(#bgGradTL)" stroke="#21262d" stroke-width="1"/>
+<text x="28" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">📊 Linguagens mais usadas</text>
+<text x="218" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">⭐ 5 stars · 53 repositórios</text>
+<path d="M 118.0 206.0 L 118.0 172.0 A 72 72 0 0 1 186.20749747750176 267.05942947812434 L 153.99840144645927 256.17025444678785 A 38 38 0 0 0 118.0 206.0 Z" fill="#3572A5" opacity="0.9"/>
+<path d="M 153.99840144645927 256.17025444678785 L 186.20749747750176 267.05942947812434 A 72 72 0 0 1 130.73609980882526 314.864601612227 L 124.72183045465778 281.4007619620087 A 38 38 0 0 0 153.99840144645927 256.17025444678785 Z" fill="#563d7c" opacity="0.9"/>
+<path d="M 124.72183045465778 281.4007619620087 L 130.73609980882526 314.864601612227 A 72 72 0 0 1 67.84832590746421 295.66052250719184 L 91.53106089560612 271.26527576768456 A 38 38 0 0 0 124.72183045465778 281.4007619620087 Z" fill="#f1e05a" opacity="0.9"/>
+<path d="M 91.53106089560612 271.26527576768456 L 67.84832590746421 295.66052250719184 A 72 72 0 0 1 46.031619771366806 241.86640039677567 L 80.01668821266581 242.87393354274272 A 38 38 0 0 0 91.53106089560612 271.26527576768456 Z" fill="#b07219" opacity="0.9"/>
+<path d="M 80.01668821266581 242.87393354274272 L 46.031619771366806 241.86640039677567 A 72 72 0 0 1 59.50094478359094 202.02547750375803 L 87.12549863578411 221.84677979365006 A 38 38 0 0 0 80.01668821266581 242.87393354274272 Z" fill="#178600" opacity="0.9"/>
+<path d="M 87.12549863578411 221.84677979365006 L 59.50094478359094 202.02547750375803 A 72 72 0 0 1 117.99999999999999 172.0 L 118.0 206.0 A 38 38 0 0 0 87.12549863578411 221.84677979365006 Z" fill="#586069" opacity="0.9"/>
+<text x="118" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">53</text>
+<text x="118" y="256" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#586069" text-anchor="middle">repos</text>
+<circle cx="222" cy="68" r="4" fill="#3572A5" opacity="0.9"/>
+<text x="232" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">Python</text>
+<text x="552" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">16 repos · 30%</text>
+<rect x="232" y="72" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="72" width="320.0" height="10" rx="5" fill="#3572A5" opacity="0.85"/>
+<text x="558.0" y="79" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#586069">⭐3</text>
+<circle cx="222" cy="112" r="4" fill="#563d7c" opacity="0.9"/>
+<text x="232" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">CSS</text>
+<text x="552" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">9 repos · 17%</text>
+<rect x="232" y="116" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="116" width="180.0" height="10" rx="5" fill="#563d7c" opacity="0.85"/>
+<text x="418.0" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#586069">⭐1</text>
+<circle cx="222" cy="156" r="4" fill="#f1e05a" opacity="0.9"/>
+<text x="232" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">JavaScript</text>
+<text x="552" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">8 repos · 15%</text>
+<rect x="232" y="160" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="160" width="160.0" height="10" rx="5" fill="#f1e05a" opacity="0.85"/>
+<circle cx="222" cy="200" r="4" fill="#b07219" opacity="0.9"/>
+<text x="232" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">Java</text>
+<text x="552" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">7 repos · 13%</text>
+<rect x="232" y="204" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="204" width="140.0" height="10" rx="5" fill="#b07219" opacity="0.85"/>
+<circle cx="222" cy="244" r="4" fill="#178600" opacity="0.9"/>
+<text x="232" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">C#</text>
+<text x="552" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">5 repos · 9%</text>
+<rect x="232" y="248" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="248" width="100.0" height="10" rx="5" fill="#178600" opacity="0.85"/>
+<circle cx="222" cy="288" r="4" fill="#e34c26" opacity="0.9"/>
+<text x="232" y="288" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">HTML</text>
+<text x="552" y="288" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">5 repos · 9%</text>
+<rect x="232" y="292" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="292" width="100.0" height="10" rx="5" fill="#e34c26" opacity="0.85"/>
+<text x="338.0" y="299" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#586069">⭐1</text>
+<circle cx="222" cy="332" r="4" fill="#3178C6" opacity="0.9"/>
+<text x="232" y="332" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">TypeScript</text>
+<text x="552" y="332" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">2 repos · 4%</text>
+<rect x="232" y="336" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="336" width="40.0" height="10" rx="5" fill="#3178C6" opacity="0.85"/>
+<circle cx="222" cy="376" r="4" fill="#89e051" opacity="0.9"/>
+<text x="232" y="376" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e6edf3" font-weight="500">Shell</text>
+<text x="552" y="376" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="end">1 repos · 2%</text>
+<rect x="232" y="380" width="320" height="10" rx="5" fill="#161b22"/>
+<rect x="232" y="380" width="20.0" height="10" rx="5" fill="#89e051" opacity="0.85"/>
+<text x="28" y="430" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#586069">Atualizado via GitHub Actions · Dados de 53 repositórios públicos</text>
 </svg>
