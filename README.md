@@ -13,10 +13,28 @@
   </a>
 </p>
 
-<!-- ===== BIO ===== -->
+<!-- ===== BIO CARD ===== -->
 
-**Desenvolvedor Full Stack** focado em **Java, Spring Boot** e aplicações web modernas.  
-🇧🇷 Brasil · Transformando ideias em código limpo e soluções escaláveis.
+<table align="center">
+  <tr>
+    <td align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px 30px;">
+      <table>
+        <tr>
+          <td valign="middle" style="padding-right: 16px; font-size: 28px;">👋</td>
+          <td valign="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+            <b style="font-size: 16px; color: #e6edf3;">Desenvolvedor Full Stack</b><br/>
+            <span style="font-size: 14px; color: #8b949e;">
+              Java · Spring Boot · React · TypeScript · PostgreSQL
+            </span><br/>
+            <span style="font-size: 13px; color: #6e7681;">
+              🇧🇷 Brasil — Transformando ideias em código limpo e soluções escaláveis
+            </span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -26,8 +44,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80"><strong>Frontend</strong></td>
-    <td>
+    <td align="center" width="80" style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 4px 0;"><strong>🎨 Frontend</strong></td>
+    <td style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 8px 12px;">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -36,8 +54,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
+    <td align="center" width="80" style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 4px 0;"><strong>⚙️ Backend</strong></td>
+    <td style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 8px 12px;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
@@ -45,16 +63,16 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Database</strong></td>
-    <td>
+    <td align="center" width="80" style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 4px 0;"><strong>🗄️ Dados</strong></td>
+    <td style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 8px 12px;">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps</strong></td>
-    <td>
+    <td align="center" width="80" style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 4px 0;"><strong>🔧 DevOps</strong></td>
+    <td style="background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 8px 12px;">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
@@ -70,7 +88,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
 
 ### 🔗 Encurtador de URLs
 > URL shortener com métricas, cache Redis, QR codes e autenticação via API key.
@@ -86,7 +104,7 @@
 **Destaques:** Cache distribuído · QR Code · Rate limiting · Dashboard
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
 
 ### 🌤️ Weather Dashboard
 > Dashboard interativo com gráficos Recharts, tema dark/light e previsão por geolocalização.
@@ -103,7 +121,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
 
 ### 🔧 Minimal API
 > API RESTful em ASP.NET Core com JWT, FluentValidation e testes automatizados.
@@ -117,7 +135,7 @@
 **Destaques:** CRUD · JWT Bearer · Validação · Testes de integração
 
     </td>
-    <td width="50%" valign="top">
+    <td valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px;">
 
 ### 💬 ForumHub API
 > API de fórum com Spring Security, JWT, Flyway migrations e roles ADMIN/USER.
@@ -137,7 +155,7 @@
 
 <br/>
 
-<!-- ===== GITHUB ANALYTICS ===== -->
+<!-- ===== GITHUB STATS ===== -->
 
 ## 📊 GitHub
 
@@ -147,31 +165,38 @@
   <img src="./assets/top-langs.svg" width="380" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="./assets/contribution-grid.svg" width="100%" alt="Contribution Grid"/>
+</p>
+
 <br/>
 
-<!-- ===== GOALS ===== -->
+<!-- ===== FOCUS AREAS ===== -->
 
 ## 🎯 Foco Atual
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <b>📖 Estudando</b><br/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
+      <div style="font-size: 24px; margin-bottom: 4px;">📖</div>
+      <b style="color: #e6edf3; font-size: 15px;">Estudando</b><br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/><br/>
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
     </td>
-    <td align="center" width="33%">
-      <b>🚧 Construindo</b><br/>
-      APIs RESTful com Java/Spring<br/>
-      Dashboards com React/TS<br/>
-      Próximo: projeto full stack completo
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
+      <div style="font-size: 24px; margin-bottom: 4px;">🚧</div>
+      <b style="color: #e6edf3; font-size: 15px;">Construindo</b><br/><br/>
+      <span style="color: #8b949e; font-size: 13px;">APIs RESTful com Java/Spring</span><br/><br/>
+      <span style="color: #8b949e; font-size: 13px;">Dashboards com React/TS</span><br/><br/>
+      <span style="color: #58a6ff; font-size: 13px;">→ Projeto full stack completo</span>
     </td>
-    <td align="center" width="33%">
-      <b>🎯 Meta</b><br/>
-      Arquitetura limpa<br/>
-      Open Source<br/>
-      Aplicações escaláveis
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
+      <div style="font-size: 24px; margin-bottom: 4px;">🎯</div>
+      <b style="color: #e6edf3; font-size: 15px;">Meta</b><br/><br/>
+      <span style="color: #8b949e; font-size: 13px;">Arquitetura limpa</span><br/><br/>
+      <span style="color: #8b949e; font-size: 13px;">Open Source</span><br/><br/>
+      <span style="color: #8b949e; font-size: 13px;">Aplicações escaláveis</span>
     </td>
   </tr>
 </table>
@@ -180,17 +205,22 @@
 
 <!-- ===== CONTACT ===== -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcuslaf">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marcuslaf@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>Code. Build. Improve. Repeat.</sub>
-  <br/>
-  <sub><i>README atualizado automaticamente via GitHub Actions</i> 🔄</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+      <span style="color: #8b949e; font-size: 13px;">Vamos construir algo juntos?</span><br/><br/>
+      <a href="https://www.linkedin.com/in/marcuslaf">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      &nbsp;
+      <a href="mailto:marcuslaf@hotmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <br/><br/>
+      <span style="color: #6e7681; font-size: 12px;">
+        <i>Code. Build. Improve. Repeat.</i>
+        &nbsp;·&nbsp; README atualizado via GitHub Actions 🔄
+      </span>
+    </td>
+  </tr>
+</table>
