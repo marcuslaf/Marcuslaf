@@ -309,37 +309,6 @@ Currently deepening **Java, Spring Boot & Full Stack development**.
 
 <br/>
 
-<!-- ===== CERTIFICATIONS ===== -->
-
-## 🏆 Conquistas & Certificações
-
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
-      <sub><b>Alura · Oracle Next Education</b></sub><br/>
-      <sub>🧾 <a href="https://cursos.alura.com.br/degree/certificate/a25bf40a-634e-444f-8b12-7069871708d1">Java e Orientação a Objetos</a></sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br/>
-      <sub><b>Alura</b></sub><br/>
-      <sub>🧾 <a href="https://cursos.alura.com.br/degree/certificate/2e1bd39d-4c3a-46f2-8e9a-01b040e2f83f">Spring Boot API REST</a></sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-      <sub><b>Alura</b></sub><br/>
-      <sub>🧾 <a href="https://cursos.alura.com.br/degree/certificate/af22ce96-2041-42be-8042-e04ed83a6c9d">React e TypeScript</a></sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Full_Stack-9C27B0?style=flat-square&logo=bitcoin&logoColor=white"/><br/>
-      <sub><b>Oracle Next Education</b></sub><br/>
-      <sub>🧾 <a href="#">Oracle ONE · Turma 8</a></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ===== QUOTE ===== -->
 
 <blockquote align="center">
