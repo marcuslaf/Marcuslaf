@@ -160,9 +160,9 @@
 ## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=marcuslaf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="520" alt="GitHub Stats"/>
   <br/><br/>
-  <img src="./assets/top-langs.svg" width="360" alt="Top Languages"/>
+  <img src="./assets/top-langs.svg" width="500" alt="Top Languages"/>
   <br/><br/>
   <details>
     <summary style="color: #8b949e; font-size: 13px; cursor: pointer;"><b>📈 Atividade nos últimos 12 meses</b></summary>
