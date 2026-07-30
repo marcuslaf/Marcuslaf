@@ -190,34 +190,34 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px;">
-      <div style="font-size: 22px; float: left; margin-right: 10px;">📖</div>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; text-align: center;">
+      <div style="font-size: 24px;">📖</div>
       <b style="color: #e6edf3; font-size: 15px;">Estudando</b>
       <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0;"/>
-      <div style="color: #8b949e; font-size: 13px; line-height: 1.8;">
-        • Spring Security & JWT<br/>
-        • Docker & Containers<br/>
-        • React Query · TypeScript
+      <div style="color: #8b949e; font-size: 13px; line-height: 1.8; text-align: center;">
+        Spring Security & JWT<br/>
+        Docker & Containers<br/>
+        React Query · TypeScript
       </div>
     </td>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px;">
-      <div style="font-size: 22px; float: left; margin-right: 10px;">🚧</div>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; text-align: center;">
+      <div style="font-size: 24px;">🚧</div>
       <b style="color: #e6edf3; font-size: 15px;">Construindo</b>
       <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0;"/>
-      <div style="color: #8b949e; font-size: 13px; line-height: 1.8;">
-        • APIs RESTful com Java/Spring<br/>
-        • Dashboards React + TypeScript<br/>
-        • <span style="color: #58a6ff;">→ Projeto full stack completo</span>
+      <div style="color: #8b949e; font-size: 13px; line-height: 1.8; text-align: center;">
+        APIs RESTful com Java/Spring<br/>
+        Dashboards React + TypeScript<br/>
+        <span style="color: #58a6ff;">→ Projeto full stack completo</span>
       </div>
     </td>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px;">
-      <div style="font-size: 22px; float: left; margin-right: 10px;">🎯</div>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; text-align: center;">
+      <div style="font-size: 24px;">🎯</div>
       <b style="color: #e6edf3; font-size: 15px;">Meta</b>
       <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0;"/>
-      <div style="color: #8b949e; font-size: 13px; line-height: 1.8;">
-        • Arquitetura limpa<br/>
-        • Open Source<br/>
-        • Aplicações escaláveis
+      <div style="color: #8b949e; font-size: 13px; line-height: 1.8; text-align: center;">
+        Arquitetura limpa<br/>
+        Open Source<br/>
+        Aplicações escaláveis
       </div>
     </td>
   </tr>
