@@ -190,7 +190,7 @@
 
 <table align="center" cellspacing="14" width="100%">
   <tr>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 18px; text-align: center;">
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 24px; text-align: center;">
       <div style="font-size: 26px;">📖</div>
       <div style="margin-top: 6px;"><b style="color: #e6edf3; font-size: 15px;">Estudando</b></div>
       <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0 16px 0;"/>
@@ -198,7 +198,7 @@
       <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Docker & Containers</div>
       <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">React Query · TypeScript</div>
     </td>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 18px; text-align: center;">
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 24px; text-align: center;">
       <div style="font-size: 26px;">🚧</div>
       <div style="margin-top: 6px;"><b style="color: #e6edf3; font-size: 15px;">Construindo</b></div>
       <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0 16px 0;"/>
@@ -206,13 +206,21 @@
       <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Dashboards React + TypeScript</div>
       <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Projeto full stack completo</div>
     </td>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 18px; text-align: center;">
-      <div style="font-size: 26px;">🎯</div>
-      <div style="margin-top: 6px;"><b style="color: #e6edf3; font-size: 15px;">Meta</b></div>
-      <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0 16px 0;"/>
-      <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Arquitetura limpa</div>
-      <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Open Source</div>
-      <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Aplicações escaláveis</div>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 24px; text-align: center;">
+      <table align="center" width="50%">
+        <tr>
+          <td style="text-align: center;">
+            <div style="font-size: 26px;">🎯</div>
+            <div style="margin-top: 6px;"><b style="color: #e6edf3; font-size: 15px;">Meta</b></div>
+            <hr style="border: none; border-top: 1px solid #21262d; margin: 12px 0 16px 0;"/>
+            <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Arquitetura limpa</div>
+            <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Open Source</div>
+            <div style="padding: 8px 0; color: #8b949e; font-size: 14px;">Aplicações escaláveis</div>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
